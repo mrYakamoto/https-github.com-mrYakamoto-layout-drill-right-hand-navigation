@@ -1,8 +1,8 @@
-# Layout Drill Proper Typesetting 
- 
-##Learning Competencies 
+# Layout Drill Proper Typesetting
 
-##Summary 
+## Learning Competencies
+
+## Summary
 
  We're going to learn some fundamentals about styling elements on a web page.  You'll have a set of fixed HTML files to work with and your job is to change the CSS and *only* the CSS to achieve the desired effects.
 
@@ -39,11 +39,11 @@ You may not be able to pick out each of the differences, so in the interest of n
 - Body copy uses a serif font while the header, title, pagination links, and footer use a sans-serif font
 - Body copy is more readable due to improved spacing
 - Blockquote copy is rendered in italics
-- Headers within the blog article have more space above them than below them 
+- Headers within the blog article have more space above them than below them
 
-##Releases
-###Release 0 
+## Releases
+### Release 0
 
-##Optimize Your Learning 
+## Optimize Your Learning
 
-##Resources
+## Resources
