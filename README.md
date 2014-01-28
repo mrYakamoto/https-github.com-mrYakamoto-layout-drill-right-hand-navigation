@@ -2,9 +2,8 @@
 
 ## Learning Competencies
 
-* Implement fonts and typographic styling in CSS.
-* Style CSS borders and colors.
-* Adjust margins and padding in CSS.
+* Implement fonts and typographic styling in CSS
+* Change basic CSS appearance: colors, widths, padding, margin
 
 ## Summary
 
