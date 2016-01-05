@@ -1,13 +1,32 @@
-.container {
-  /*
-    If you have a block-level element of a certain width, margin: 0 auto;
-    will how you center it inside its parent container.
 
-    See: http://bluerobot.com/web/css/center1.html
-    
-    Don't change the container width.
-  */
-  margin: 0 auto;  
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body p {
+  font-family: serif;
+  line-height: 1.5;
+  margin-top: 15px;
+}
+
+blockquote {
+  font-style: italic;
+}
+
+h3 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 15px;
+}
+
+header {
+  border-bottom: 2px solid grey;
+}
+
+.container {
+  margin: 0 auto;
   width: 720px;
 }
 
@@ -29,3 +48,5 @@ small.page_no {
 .pagination a.disabled {
   color: #ccc;
 }
+
+
